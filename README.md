@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="JustKay1029"/>
+<img src="./ascii.svg" width="460" alt="Kavya Gupta"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
