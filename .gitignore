@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+README_original.md
+ascii_original.svg
