@@ -4,19 +4,19 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[github.com/JustKay1029](https://github.com/JustKay1029) &nbsp;·&nbsp;
-[linkedin](https://linkedin.com) &nbsp;·&nbsp;
-[email](mailto:your.email@example.com)
+[GitHub](https://github.com/JustKay1029) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/kavya-gupta-b65751365/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTVVv5YdqSNa3OObNpHeztg%3D%3D) &nbsp;·&nbsp;
+[Contact me](mailto:kavyagupta505@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Full-stack developer & software engineer.<br>
-> Crafting clean code, automated workflows, and high-performance tools.
+> AI Engineering Student | More of a self learner.<br>
+> Solving Problems which I face usually through the tech I have learnt.
 
-I build fast, test on real users, and optimize continuously.<br>
-Currently focused on developing scalable web systems, automation scripts, and exploring real-time data pipelines.
+I build along with AI and focus more on user's side.<br>
+Currently focused on developing tools which take available AI to a more personalised level making .
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -24,11 +24,11 @@ Currently focused on developing scalable web systems, automation scripts, and ex
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[awesome-project](https://github.com/JustKay1029/awesome-project)** &nbsp;·&nbsp; <samp>typescript, next.js</samp><br>
-A modern web application built for speed, responsiveness, and clean user experience.
+**[PR-Pulse](https://github.com/JustKay1029/pr-pulse)** &nbsp;·&nbsp; <samp>typescript, next.js</samp><br>
+A lightweight, AI-powered GitHub Pull Request reviewer. It fetches PRs, analyzes them, and posts the constructive feedback directly back to the pull request as a comment.
 
-**[automation-scripts](https://github.com/JustKay1029/automation-scripts)** &nbsp;·&nbsp; <samp>python</samp><br>
-A suite of utilities to automate repetitive developer workflows, data scraping, and local setups.
+**[Digital Catalog AI](https://github.com/JustKay1029/digital_catalog_ai)** &nbsp;·&nbsp; <samp>python</samp><br>
+Transform raw, unstructured inventory notes into structured product data and WhatsApp-ready catalog entries using a 3-stage multi-agent AI pipeline in Python.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
