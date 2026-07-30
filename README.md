@@ -12,11 +12,11 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> AI Engineering Student | More of a self learner.<br>
-> Solving Problems which I face usually through the tech I have learnt.
+> AI Engineering student building practical AI systems powered by LLMs, agentic workflows, and automation.
 
-I build along with AI and focus more on user's side.<br>
-Currently focused on developing tools which take available AI to a more personalised level making .
+I enjoy turning everyday problems into products that people actually use. My focus is on building AI tools that feel personal, useful, and thoughtfully designed rather than adding AI for the sake of it.
+
+Currently exploring intelligent agents, developer tools, and AI-powered productivity systems.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -25,10 +25,10 @@ Currently focused on developing tools which take available AI to a more personal
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[PR-Pulse](https://github.com/JustKay1029/pr-pulse)** &nbsp;·&nbsp; <samp>typescript, next.js</samp><br>
-A lightweight, AI-powered GitHub Pull Request reviewer. It fetches PRs, analyzes them, and posts the constructive feedback directly back to the pull request as a comment.
+Automatically reviews GitHub pull requests using LLMs, identifies potential issues, suggests improvements, and posts contextual feedback directly back to the pull request.
 
 **[Digital Catalog AI](https://github.com/JustKay1029/digital_catalog_ai)** &nbsp;·&nbsp; <samp>python</samp><br>
-Transform raw, unstructured inventory notes into structured product data and WhatsApp-ready catalog entries using a 3-stage multi-agent AI pipeline in Python.
+Converts unstructured inventory notes into structured product information through a three-stage multi-agent pipeline, generating WhatsApp-ready catalog entries automatically.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
