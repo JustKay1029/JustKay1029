@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+<img src="./hd-about.svg" width="620" alt="About"/>
 
 > AI Engineering student building practical AI systems powered by LLMs, agentic workflows, and automation.
 
@@ -18,7 +18,7 @@ I enjoy turning everyday problems into products that people actually use. My foc
 
 Currently exploring intelligent agents, developer tools, and AI-powered productivity systems.
 
-<img src="./hd-stack.svg" width="620" alt="stack"/>
+<img src="./hd-stack.svg" width="620" alt="Stack"/>
 
 **AI**  
 <samp>Python • OpenAI API • LangChain</samp>
@@ -34,7 +34,7 @@ Currently exploring intelligent agents, developer tools, and AI-powered producti
 
 Currently building products where AI isn't the feature—it is the engine behind a better user experience.
 
-<img src="./hd-projects.svg" width="620" alt="projects"/>
+<img src="./hd-projects.svg" width="620" alt="Projects"/>
 
 **[PR-Pulse](https://github.com/JustKay1029/pr-pulse)** &nbsp;·&nbsp; <samp>typescript, next.js</samp><br>
 Automatically reviews GitHub pull requests using LLMs, identifies potential issues, suggests improvements, and posts contextual feedback directly back to the pull request.
@@ -42,7 +42,7 @@ Automatically reviews GitHub pull requests using LLMs, identifies potential issu
 **[Digital Catalog AI](https://github.com/JustKay1029/digital_catalog_ai)** &nbsp;·&nbsp; <samp>python</samp><br>
 Converts unstructured inventory notes into structured product information through a three-stage multi-agent pipeline, generating WhatsApp-ready catalog entries automatically.
 
-<img src="./hd-stats.svg" width="620" alt="stats"/>
+<img src="./hd-stats.svg" width="620" alt="Stats"/>
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Converts unstructured inventory notes into structured product information throug
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+<img src="./hd-about-this-page.svg" width="620" alt="About This Page"/>
 
 Every graphic here is generated, not embedded from anyone else's server.<br>
 `ascii.svg` is my photo pushed through a character ramp; the stat graphics and<br>
