@@ -20,7 +20,19 @@ Currently exploring intelligent agents, developer tools, and AI-powered producti
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; next.js &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; github-actions</samp>
+**AI**  
+<samp>Python • OpenAI API • LangChain</samp>
+
+**Frontend**  
+<samp>React • Next.js</samp>
+
+**Backend**  
+<samp>Node.js • PostgreSQL</samp>
+
+**DevOps**  
+<samp>Docker • GitHub Actions • Git</samp>
+
+Currently building products where AI isn't the feature—it is the engine behind a better user experience.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
